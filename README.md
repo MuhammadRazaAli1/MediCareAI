@@ -50,10 +50,10 @@ MedicareAI/
     pip install -r requirements.txt
     Run the application:
 
-Bash
-streamlit run app.py
+    Bash
+    streamlit run app.py
 
 ## 👤 Author
-Muhammad Raza Ali Computer Science Student & Aspiring Data Scientist
 
+Muhammad Raza Ali Computer Science Student & Aspiring Data Scientist
 Gojra, Punjab, Pakistan
