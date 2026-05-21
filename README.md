@@ -34,6 +34,7 @@ MedicareAI/
 ├── trained_models/      # Pre-trained .joblib model files
 ├── app.py               # Main entry point of the application
 └── requirements.txt     # Essential project dependencies
+```
 
 ## ⚙️ Installation & Setup
 Clone the repository:
