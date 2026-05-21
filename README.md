@@ -41,7 +41,7 @@ MedicareAI/
 * Clone the repository:
 
         Bash
-        git clone [https://github.com/MuhammadRazaAli1/MedicareAI.git](https://github.com/MuhammadRazaAli1/MedicareAI.git)
+        git clone [https://github.com/MuhammadRazaAli1/MedicareAI.git]
         cd MedicareAI
 
 * Install dependencies:
