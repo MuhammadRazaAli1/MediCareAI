@@ -37,12 +37,14 @@ MedicareAI/
 ```
 
 ## ⚙️ Installation & Setup
-Clone the repository:
+
+*Clone the repository:
 
 Bash
 git clone [https://github.com/APKA_USERNAME/MedicareAI.git](https://github.com/APKA_USERNAME/MedicareAI.git)
 cd MedicareAI
-Install dependencies:
+
+* Install dependencies:
 
 Bash
 pip install -r requirements.txt
@@ -51,7 +53,7 @@ Run the application:
 Bash
 streamlit run app.py
 
-##👤 Author
+## 👤 Author
 Muhammad Raza Ali Computer Science Student & Aspiring Data Scientist
 
 Gojra, Punjab, Pakistan
