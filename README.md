@@ -1,4 +1,4 @@
-# 🩺 MedicareAI: Multi-Disease Prediction Engine
+# 🩺 MedicareAI: Multi-Disease Prediction System
 
 **MedicareAI** is an advanced, AI-powered healthcare analytics platform designed to predict multiple life-threatening diseases with high accuracy. Built using **Python** and **Streamlit**, it leverages sophisticated machine learning models to provide instant health insights and predictive analytics.
 
@@ -40,18 +40,18 @@ MedicareAI/
 
 * Clone the repository:
 
-    Bash
-    git clone [https://github.com/APKA_USERNAME/MedicareAI.git](https://github.com/APKA_USERNAME/MedicareAI.git)
-    cd MedicareAI
+        Bash
+        git clone [https://github.com/MuhammadRazaAli1/MedicareAI.git](https://github.com/MuhammadRazaAli1/MedicareAI.git)
+        cd MedicareAI
 
 * Install dependencies:
 
-    Bash
-    pip install -r requirements.txt
-    Run the application:
+        Bash
+        pip install -r requirements.txt
+        Run the application:
 
-    Bash
-    streamlit run app.py
+        Bash
+        streamlit run app.py
 
 ## 👤 Author
 
