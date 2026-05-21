@@ -38,17 +38,17 @@ MedicareAI/
 
 ## ⚙️ Installation & Setup
 
-*Clone the repository:
+* Clone the repository:
 
-Bash
-git clone [https://github.com/APKA_USERNAME/MedicareAI.git](https://github.com/APKA_USERNAME/MedicareAI.git)
-cd MedicareAI
+    Bash
+    git clone [https://github.com/APKA_USERNAME/MedicareAI.git](https://github.com/APKA_USERNAME/MedicareAI.git)
+    cd MedicareAI
 
 * Install dependencies:
 
-Bash
-pip install -r requirements.txt
-Run the application:
+    Bash
+    pip install -r requirements.txt
+    Run the application:
 
 Bash
 streamlit run app.py
