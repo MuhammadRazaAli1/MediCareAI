@@ -48,7 +48,8 @@ MedicareAI/
 
         Bash
         pip install -r requirements.txt
-        Run the application:
+
+* Run the application:
 
         Bash
         streamlit run app.py
