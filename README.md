@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Language:** Python 3.x
+- **Language:** Python
 - **Frontend & Backend:** Streamlit
 - **Machine Learning:** Scikit-learn (RandomForest, GradientBoosting)
 - **Data Handling:** Pandas, Numpy
