@@ -56,6 +56,6 @@ MedicareAI/
 
 ## 👤 Author
 
-Muhammad Raza Ali Computer Science Student & Aspiring Data Scientist
+Muhammad Raza Ali | Data Scientist
 
 Gojra, Punjab, Pakistan
