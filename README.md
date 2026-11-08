@@ -30,7 +30,6 @@
 MedicareAI/
 ├── core/                # Backend logic, Database & ML Model training
 ├── interface/           # Streamlit UI components and screen sections
-├── data_set/            # Generated CSV datasets for transparency
 ├── trained_models/      # Pre-trained .joblib model files
 ├── app.py               # Main entry point of the application
 └── requirements.txt     # Essential project dependencies
