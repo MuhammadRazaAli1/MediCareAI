@@ -12,9 +12,15 @@ Predict **Diabetes**, **Heart Disease** and **Parkinson's** risk in seconds, tra
 ![Plotly](https://img.shields.io/badge/Plotly-Charts-7C3AED?style=for-the-badge&logo=plotly&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-0F172A?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<br>
+
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Open_the_App-10B981?style=for-the-badge)](https://medicareai-vercel.vercel.app)
+
 </div>
 
 ---
+
+> 🌐 **Try it now:** **[medicareai-vercel.vercel.app](https://medicareai-vercel.vercel.app)** — create a free account and run your first prediction in under a minute.
 
 ## ✨ Features
 
@@ -26,18 +32,6 @@ Predict **Diabetes**, **Heart Disease** and **Parkinson's** risk in seconds, tra
 | 🕘 | **Health history** | Every checkup saved, charted and deletable |
 | 📈 | **Recovery tracker** | Compare latest vs previous: *Improving, Stable or Worsening* |
 | 📄 | **PDF medical report** | Professional report with advice and recovery comparison |
-
-## 🚀 Quick Start
-
-```bash
-git clone https://github.com/MuhammadRazaAli1/MediCareAI.git
-cd MediCareAI
-pip install -r requirements.txt        # Python 3.9+
-streamlit run app.py                   # opens http://localhost:8501
-```
-
-Create an account, pick a module from the sidebar, enter the values and click **Run AI Prediction**.
-Models train automatically on first launch if no saved model is found.
 
 ## 🧠 The Models
 
