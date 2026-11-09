@@ -89,4 +89,3 @@ Built with ❤️ by **[Muhammad Raza Ali](https://github.com/MuhammadRazaAli1)*
 ⭐ If you like this project, give it a star!
 
 </div>
-Gojra, Punjab, Pakistan
